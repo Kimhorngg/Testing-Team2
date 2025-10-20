@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bogle&display=swap');
+@import "tailwindcss";
+@theme{
+    --font-primary: 'BBH Sans Bogle', sans-serif;
+}
